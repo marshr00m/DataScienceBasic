@@ -8,7 +8,7 @@
 .idea/**/dictionaries
 .idea/**/shelf
 
-kadai1.ipynb
+kadai*.ipynb
 
 # AWS User-specific
 .idea/**/aws.xml
